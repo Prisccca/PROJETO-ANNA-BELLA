@@ -15,4 +15,4 @@ Layout com recursos básicos
 
 ![alt text](./img/campanhaspublicitarias.html.png)
 
-![alt text](./contato.html)
+![alt text](./img/contato.html.png)
